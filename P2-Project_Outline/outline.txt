@@ -24,7 +24,7 @@ Technologies
 
 What I'll Have to Learn
 
-    For this project I will have to learn how to format and print text based documents using java. Furthermore I will have to learn to make a user friendly user interface. Finally I may
+    For this project I will have to learn how to format and print text based documents using java. Additionally I will have to learn to make a user friendly user interface. Finally I may
 have to brush up on my database skills.
 
 Project Tracker
