@@ -1,0 +1,32 @@
+Overview
+
+    The idea for my project is to create an easy to use test creation website. I came up with this idea whilst attending community college. I found that a surprisingly high number of 
+teachers administered tests that were lacking both visually and functionally. Between questions that spanned two pages and writing lines that were uneven, I'm sure a good number 
+of these teachers were simply making the test documents in Microsoft Word or some other similar application. Even more common than this was tests that had mistakes in them,
+and which I can only assume nobody wanted to go through the hastle of editing. 
+
+    My website will allow teachers to create an account that they can save their tests under for easy recalling and editing. Furthermore it will make creating essay questions, multiple 
+choice, fill in the blank, true-false, and other common test question formats easy to make. This should ease and expedite the process of creating tests for educators, as well as 
+hopefully making the tests easier to understand for students. In addition to this website should have a user friendly way to print these tests.
+
+Features
+
+    Test Creation - ability to create a test and fill it with questions
+    User Login - allows user to create an account and login
+    Saving Tests - allows a logged in user to save a test and pull it back up at future dates
+    Printing - allows the printing of a test or the export to pdf
+
+Technologies
+
+    Java
+    Springboot
+    MySql
+
+What I'll Have to Learn
+
+    For this project I will have to learn how to format and print text based documents using java. Furthermore I will have to learn to make a user friendly user interface. Finally I may
+have to brush up on my database skills.
+
+Project Tracker
+
+    https://trello.com/b/62MPAI1B/test-creator
